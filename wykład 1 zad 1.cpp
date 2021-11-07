@@ -5,8 +5,6 @@ int main()
 
 {
 
-using namespace std;
-
 int cale;
 
 cout<<"Przelicznik cale na centymetry"<<endl;
